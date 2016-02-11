@@ -4,6 +4,22 @@
 
 <img src="https://raw.githubusercontent.com/eneim/Attiq-app/master/art/web_hi_res_512.png" width="256">
 
+#### TL,DR: Attiq: A Materialized Android client for Qiita.com
+
+**Screenshots**
+
+<img src="https://raw.githubusercontent.com/eneim/Attiq-app/master/art/device-2016-02-11-140319_framed.png" width = "256">
+<img src="https://raw.githubusercontent.com/eneim/Attiq-app/master/art/device-2016-02-11-140401_framed.png" width = "256">
+
+<img src="https://raw.githubusercontent.com/eneim/Attiq-app/master/art/device-2016-02-11-140424_framed.png" width = "240">
+<img src="https://raw.githubusercontent.com/eneim/Attiq-app/master/art/device-2016-02-11-140451_framed.png" width = "240">
+<img src="https://raw.githubusercontent.com/eneim/Attiq-app/master/art/device-2016-02-11-140513_framed.png" width = "240">
+
+<img src="https://raw.githubusercontent.com/eneim/Attiq-app/master/art/device-2016-02-11-140539_framed.png" width = "192">
+<img src="https://raw.githubusercontent.com/eneim/Attiq-app/master/art/device-2016-02-11-140557_framed.png" width = "192">
+<img src="https://raw.githubusercontent.com/eneim/Attiq-app/master/art/device-2016-02-11-140921_framed.png" width = "192">
+<img src="https://raw.githubusercontent.com/eneim/Attiq-app/master/art/device-2016-02-11-140937_framed.png" width = "192">
+
 #### これなんだ？
 
 Issue tracker and feature request for Attiq app
