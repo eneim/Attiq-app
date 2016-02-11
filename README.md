@@ -18,7 +18,7 @@ A simple Materialized Android client for Qiita.com
 
 #### じゃ、Attiqが[Increments Inc.](http://increments.co.jp/)のものなの？
 
-違います。これが自分の練習用アプリ。作ったのく的はいかの2点：
+違います。これが自分の練習用アプリ。作った目的はいかの2点：
 
 - 様々なAPIやライブラリを試すため
 - 今まで満足できるQiitaのAndroidクライアントがないため、作ってみたい。
