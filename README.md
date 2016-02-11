@@ -1,5 +1,7 @@
 # Attiqアプリ（読み方：アチック）
 
+[![Join the chat at https://gitter.im/eneim/Attiq-app](https://badges.gitter.im/eneim/Attiq-app.svg)](https://gitter.im/eneim/Attiq-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <img src="https://raw.githubusercontent.com/eneim/Attiq-app/master/art/web_hi_res_512.png" width="256">
 
 #### これなんだ？
