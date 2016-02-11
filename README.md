@@ -1,6 +1,6 @@
 # Attiqアプリ（読み方：アチック）
 
-<img src="https://github.com/eneim/Attiq/blob/develop/art/web_hi_res_512.png" width="256">
+<img src="https://github.com/eneim/Attiq-app/blob/master/art/web_hi_res_512.png" width="256">
 
 #### これなんだ？
 
