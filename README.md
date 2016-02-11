@@ -23,6 +23,10 @@ A simple Materialized Android client for Qiita.com
 - 様々なAPIやライブラリを試すため
 - 今まで満足できるQiitaのAndroidクライアントがないため、作ってみたい。
 
+#### では、Attiqがどんなものなの？何ができるだね〜
+
+Wikiを作成しています。しばらくお待ちください
+
 ## LICENSE
 
 Apache License
